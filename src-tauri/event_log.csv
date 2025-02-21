@@ -1,167 +1,267 @@
 Timestamp,Event
-1740152734959,Mouse moved from (1054, 811) to (808, 504)
-1740152734959,Mouse clicked: [false, false, false, false, false]
-1740152734969,Mouse clicked: [false, false, false, false, false]
-1740152734979,Mouse clicked: [false, false, false, false, false]
-1740152734992,Mouse clicked: [false, false, false, false, false]
-1740152735003,Mouse clicked: [false, false, false, false, false]
-1740152735016,Mouse clicked: [false, false, false, false, false]
-1740152735028,Mouse clicked: [false, false, false, false, false]
-1740152735040,Mouse clicked: [false, false, false, false, false]
-1740152735053,Mouse clicked: [false, false, false, false, false]
-1740152735065,Mouse clicked: [false, false, false, false, false]
-1740152735076,Mouse clicked: [false, false, false, false, false]
-1740152735089,Mouse clicked: [false, false, false, false, false]
-1740152735101,Mouse moved from (808, 504) to (814, 500)
-1740152735101,Mouse clicked: [false, false, false, false, false]
-1740152735114,Mouse moved from (814, 500) to (828, 490)
-1740152735114,Mouse clicked: [false, false, false, false, false]
-1740152735127,Mouse moved from (828, 490) to (840, 481)
-1740152735127,Mouse clicked: [false, false, false, false, false]
-1740152735138,Mouse moved from (840, 481) to (844, 479)
-1740152735138,Mouse clicked: [false, false, false, false, false]
-1740152735150,Mouse moved from (844, 479) to (850, 476)
-1740152735150,Mouse clicked: [false, false, false, false, false]
-1740152735162,Mouse moved from (850, 476) to (853, 474)
-1740152735162,Mouse clicked: [false, false, false, false, false]
-1740152735173,Mouse moved from (853, 474) to (855, 474)
-1740152735173,Mouse clicked: [false, false, false, false, false]
-1740152735184,Mouse moved from (855, 474) to (861, 473)
-1740152735185,Mouse clicked: [false, false, false, false, false]
-1740152735197,Mouse moved from (861, 473) to (864, 473)
-1740152735197,Mouse clicked: [false, false, false, false, false]
-1740152735209,Mouse moved from (864, 473) to (867, 473)
-1740152735209,Mouse clicked: [false, false, false, false, false]
-1740152735220,Mouse clicked: [false, false, false, false, false]
-1740152735230,Mouse moved from (867, 473) to (868, 474)
-1740152735230,Mouse clicked: [false, false, false, false, false]
-1740152735242,Mouse clicked: [false, false, false, false, false]
-1740152735254,Mouse moved from (868, 474) to (865, 475)
-1740152735254,Mouse clicked: [false, false, false, false, false]
-1740152735265,Mouse moved from (865, 475) to (862, 475)
-1740152735265,Mouse clicked: [false, false, false, false, false]
-1740152735277,Mouse moved from (862, 475) to (850, 476)
-1740152735277,Mouse clicked: [false, false, false, false, false]
-1740152735289,Mouse moved from (850, 476) to (843, 476)
-1740152735289,Mouse clicked: [false, false, false, false, false]
-1740152735299,Mouse moved from (843, 476) to (836, 476)
-1740152735299,Mouse clicked: [false, false, false, false, false]
-1740152735309,Mouse moved from (836, 476) to (818, 469)
-1740152735309,Mouse clicked: [false, false, false, false, false]
-1740152735320,Mouse moved from (818, 469) to (809, 463)
-1740152735320,Mouse clicked: [false, false, false, false, false]
-1740152735332,Mouse moved from (809, 463) to (800, 454)
-1740152735332,Mouse clicked: [false, false, false, false, false]
-1740152735345,Mouse moved from (800, 454) to (785, 433)
-1740152735345,Mouse clicked: [false, false, false, false, false]
-1740152735357,Mouse moved from (785, 433) to (775, 406)
-1740152735357,Mouse clicked: [false, false, false, false, false]
-1740152735368,Mouse moved from (775, 406) to (773, 393)
-1740152735368,Mouse clicked: [false, false, false, false, false]
-1740152735381,Mouse moved from (773, 393) to (773, 366)
-1740152735381,Mouse clicked: [false, false, false, false, false]
-1740152735391,Mouse moved from (773, 366) to (773, 361)
-1740152735391,Mouse clicked: [false, false, false, false, false]
-1740152735401,Mouse moved from (773, 361) to (775, 353)
-1740152735401,Mouse clicked: [false, false, false, false, false]
-1740152735413,Mouse moved from (775, 353) to (779, 344)
-1740152735413,Mouse clicked: [false, false, false, false, false]
-1740152735426,Mouse moved from (779, 344) to (781, 341)
-1740152735426,Mouse clicked: [false, false, false, false, false]
-1740152735436,Mouse moved from (781, 341) to (783, 339)
-1740152735436,Mouse clicked: [false, false, false, false, false]
-1740152735448,Mouse moved from (783, 339) to (788, 337)
-1740152735448,Mouse clicked: [false, false, false, false, false]
-1740152735460,Mouse moved from (788, 337) to (792, 340)
-1740152735460,Mouse clicked: [false, false, false, false, false]
-1740152735472,Mouse moved from (792, 340) to (794, 346)
-1740152735472,Mouse clicked: [false, false, false, false, false]
-1740152735483,Mouse moved from (794, 346) to (795, 353)
-1740152735483,Mouse clicked: [false, false, false, false, false]
-1740152735496,Mouse moved from (795, 353) to (796, 374)
-1740152735496,Mouse clicked: [false, false, false, false, false]
-1740152735509,Mouse moved from (796, 374) to (797, 399)
-1740152735509,Mouse clicked: [false, false, false, false, false]
-1740152735521,Mouse moved from (797, 399) to (797, 413)
-1740152735521,Mouse clicked: [false, false, false, false, false]
-1740152735533,Mouse moved from (797, 413) to (796, 431)
-1740152735533,Mouse clicked: [false, false, false, false, false]
-1740152735544,Mouse moved from (796, 431) to (794, 441)
-1740152735544,Mouse clicked: [false, false, false, false, false]
-1740152735556,Mouse moved from (794, 441) to (787, 454)
-1740152735556,Mouse clicked: [false, false, false, false, false]
-1740152735569,Mouse moved from (787, 454) to (784, 459)
-1740152735569,Mouse clicked: [false, false, false, false, false]
-1740152735581,Mouse moved from (784, 459) to (776, 466)
-1740152735581,Mouse clicked: [false, false, false, false, false]
-1740152735592,Mouse moved from (776, 466) to (772, 469)
-1740152735592,Mouse clicked: [false, false, false, false, false]
-1740152735604,Mouse moved from (772, 469) to (769, 471)
-1740152735604,Mouse clicked: [false, false, false, false, false]
-1740152735616,Mouse moved from (769, 471) to (762, 475)
-1740152735616,Mouse clicked: [false, false, false, false, false]
-1740152735629,Mouse moved from (762, 475) to (756, 480)
-1740152735629,Mouse clicked: [false, false, false, false, false]
-1740152735641,Mouse moved from (756, 480) to (753, 483)
-1740152735641,Mouse clicked: [false, false, false, false, false]
-1740152735653,Mouse moved from (753, 483) to (748, 489)
-1740152735653,Mouse clicked: [false, false, false, false, false]
-1740152735666,Mouse moved from (748, 489) to (746, 492)
-1740152735666,Mouse clicked: [false, false, false, false, false]
-1740152735678,Mouse moved from (746, 492) to (743, 497)
-1740152735678,Mouse clicked: [false, false, false, false, false]
-1740152735688,Mouse moved from (743, 497) to (742, 500)
-1740152735689,Mouse clicked: [false, false, false, false, false]
-1740152735700,Mouse moved from (742, 500) to (739, 506)
-1740152735700,Mouse clicked: [false, false, false, false, false]
-1740152735711,Mouse moved from (739, 506) to (739, 509)
-1740152735711,Mouse clicked: [false, false, false, false, false]
-1740152735723,Mouse moved from (739, 509) to (738, 511)
-1740152735723,Mouse clicked: [false, false, false, false, false]
-1740152735735,Mouse moved from (738, 511) to (737, 515)
-1740152735735,Mouse clicked: [false, false, false, false, false]
-1740152735747,Mouse moved from (737, 515) to (736, 517)
-1740152735747,Mouse clicked: [false, false, false, false, false]
-1740152735757,Mouse moved from (736, 517) to (735, 518)
-1740152735757,Mouse clicked: [false, false, false, false, false]
-1740152735767,Mouse moved from (735, 518) to (735, 519)
-1740152735767,Mouse clicked: [false, false, false, false, false]
-1740152735779,Mouse clicked: [false, false, false, false, false]
-1740152735791,Mouse clicked: [false, false, false, false, false]
-1740152735803,Mouse clicked: [false, false, false, false, false]
-1740152735816,Mouse clicked: [false, false, false, false, false]
-1740152735828,Mouse clicked: [false, false, false, false, false]
-1740152735839,Mouse clicked: [false, false, false, false, false]
-1740152735852,Mouse moved from (735, 519) to (736, 517)
-1740152735852,Mouse clicked: [false, false, false, false, false]
-1740152735864,Mouse moved from (736, 517) to (738, 515)
-1740152735864,Mouse clicked: [false, false, false, false, false]
-1740152735875,Mouse moved from (738, 515) to (742, 510)
-1740152735875,Mouse clicked: [false, false, false, false, false]
-1740152735887,Mouse moved from (742, 510) to (743, 508)
-1740152735887,Mouse clicked: [false, false, false, false, false]
-1740152735899,Mouse moved from (743, 508) to (746, 503)
-1740152735899,Mouse clicked: [false, false, false, false, false]
-1740152735911,Mouse moved from (746, 503) to (747, 501)
-1740152735911,Mouse clicked: [false, false, false, false, false]
-1740152735924,Mouse moved from (747, 501) to (748, 499)
-1740152735924,Mouse clicked: [false, false, false, false, false]
-1740152735936,Mouse moved from (748, 499) to (750, 496)
-1740152735936,Mouse clicked: [false, false, false, false, false]
-1740152735947,Mouse moved from (750, 496) to (751, 494)
-1740152735947,Mouse clicked: [false, false, false, false, false]
-1740152735958,Mouse clicked: [false, false, false, false, false]
-1740152735971,Mouse moved from (751, 494) to (752, 493)
-1740152735971,Mouse clicked: [false, false, false, false, false]
-1740152735983,Mouse moved from (752, 493) to (752, 492)
-1740152735983,Mouse clicked: [false, false, false, false, false]
-1740152735996,Mouse clicked: [false, false, false, false, false]
-1740152736008,Mouse clicked: [false, false, false, false, false]
-1740152736021,Mouse clicked: [false, true, false, false, false]
-1740152736032,Mouse clicked: [false, true, false, false, false]
-1740152736044,Mouse clicked: [false, true, false, false, false]
-1740152736057,Mouse clicked: [false, true, false, false, false]
-1740152736069,Mouse clicked: [false, true, false, false, false]
-1740152736082,Mouse clicked: [false, true, false, false, false]
-1740152736095,Mouse clicked: [false, true, false, false, false]
-1740152736107,Mouse clicked: [false, false, false, false, false]
+1740155681666,Mouse moved from (902, 583) to (648, 500) (outside window)
+1740155681811,Mouse moved from (648, 500) to (650, 495) (outside window)
+1740155681823,Mouse moved from (650, 495) to (656, 490) (outside window)
+1740155681833,Mouse moved from (656, 490) to (674, 475) (outside window)
+1740155681846,Mouse moved from (674, 475) to (683, 470) (outside window)
+1740155681859,Mouse moved from (683, 470) to (707, 458) (outside window)
+1740155681871,Mouse moved from (707, 458) to (730, 448) (inside window)
+1740155681896,Mouse moved from (730, 448) to (792, 443) (inside window)
+1740155681909,Mouse moved from (792, 443) to (815, 448) (inside window)
+1740155681921,Mouse moved from (815, 448) to (833, 456) (inside window)
+1740155681931,Mouse moved from (833, 456) to (845, 468) (inside window)
+1740155681944,Mouse moved from (845, 468) to (851, 477) (inside window)
+1740155681957,Mouse moved from (851, 477) to (855, 491) (inside window)
+1740155681970,Mouse moved from (855, 491) to (855, 500) (inside window)
+1740155681982,Mouse moved from (855, 500) to (854, 504) (inside window)
+1740155681998,Mouse moved from (854, 504) to (849, 510) (inside window)
+1740155682009,Mouse moved from (849, 510) to (843, 513) (inside window)
+1740155682022,Mouse moved from (843, 513) to (830, 516) (inside window)
+1740155682035,Mouse moved from (830, 516) to (811, 518) (inside window)
+1740155682047,Mouse moved from (811, 518) to (801, 519) (inside window)
+1740155682059,Mouse moved from (801, 519) to (778, 519) (inside window)
+1740155682072,Mouse moved from (778, 519) to (761, 519) (inside window)
+1740155682084,Mouse moved from (761, 519) to (751, 519) (inside window)
+1740155682096,Mouse moved from (751, 519) to (736, 516) (inside window)
+1740155682108,Mouse moved from (736, 516) to (733, 516) (inside window)
+1740155682121,Mouse moved from (733, 516) to (724, 514) (inside window)
+1740155682133,Mouse moved from (724, 514) to (721, 513) (inside window)
+1740155682145,Mouse moved from (721, 513) to (716, 512) (inside window)
+1740155682156,Mouse moved from (716, 512) to (714, 512) (inside window)
+1740155682166,Mouse moved from (714, 512) to (713, 512) (inside window)
+1740155682179,Mouse moved from (713, 512) to (711, 512) (outside window)
+1740155682216,Mouse moved from (711, 512) to (711, 513) (outside window)
+1740155682229,Mouse moved from (711, 513) to (712, 515) (inside window)
+1740155682242,Mouse moved from (712, 515) to (715, 519) (inside window)
+1740155682254,Mouse moved from (715, 519) to (717, 522) (inside window)
+1740155682267,Mouse moved from (717, 522) to (720, 529) (inside window)
+1740155682280,Mouse moved from (720, 529) to (722, 537) (inside window)
+1740155682292,Mouse moved from (722, 537) to (723, 542) (inside window)
+1740155682305,Mouse moved from (723, 542) to (723, 547) (inside window)
+1740155682317,Mouse moved from (723, 547) to (723, 550) (inside window)
+1740155682329,Mouse moved from (723, 550) to (723, 555) (inside window)
+1740155682340,Mouse moved from (723, 555) to (723, 557) (inside window)
+1740155682351,Mouse moved from (723, 557) to (723, 559) (inside window)
+1740155682375,Mouse moved from (723, 559) to (723, 560) (inside window)
+1740155682423,Mouse moved from (723, 560) to (722, 560) (inside window)
+1740155682458,Mouse clicked: [false, true, false, false, false]
+1740155682542,Mouse clicked: [false, false, false, false, false]
+1740155682650,Mouse moved from (722, 560) to (722, 561) (inside window)
+1740155682662,Mouse moved from (722, 561) to (719, 566) (inside window)
+1740155682675,Mouse moved from (719, 566) to (717, 568) (inside window)
+1740155682688,Mouse moved from (717, 568) to (711, 572) (outside window)
+1740155682698,Mouse moved from (711, 572) to (707, 574) (outside window)
+1740155682709,Mouse moved from (707, 574) to (691, 582) (outside window)
+1740155682721,Mouse moved from (691, 582) to (686, 582) (outside window)
+1740155682731,Mouse moved from (686, 582) to (679, 585) (outside window)
+1740155682742,Mouse moved from (679, 585) to (670, 588) (outside window)
+1740155682755,Mouse moved from (670, 588) to (666, 589) (outside window)
+1740155682766,Mouse moved from (666, 589) to (660, 591) (outside window)
+1740155682777,Mouse moved from (660, 591) to (659, 592) (outside window)
+1740155682788,Mouse clicked: [false, true, false, false, false]
+1740155682874,Mouse clicked: [false, false, false, false, false]
+1740155683005,Mouse moved from (659, 592) to (659, 587) (outside window)
+1740155683018,Mouse moved from (659, 587) to (657, 577) (outside window)
+1740155683031,Mouse moved from (657, 577) to (647, 528) (outside window)
+1740155683043,Mouse moved from (647, 528) to (631, 445) (outside window)
+1740155683055,Mouse moved from (631, 445) to (622, 346) (outside window)
+1740155683066,Mouse moved from (622, 346) to (619, 279) (outside window)
+1740155683079,Mouse moved from (619, 279) to (619, 194) (outside window)
+1740155683091,Mouse moved from (619, 194) to (619, 179) (outside window)
+1740155683103,Mouse moved from (619, 179) to (620, 163) (outside window)
+1740155683116,Mouse moved from (620, 163) to (621, 148) (outside window)
+1740155683127,Mouse moved from (621, 148) to (622, 134) (outside window)
+1740155683138,Mouse moved from (622, 134) to (623, 132) (outside window)
+1740155683151,Mouse moved from (623, 132) to (624, 130) (outside window)
+1740155683187,Mouse clicked: [false, true, false, false, false]
+1740155683260,Mouse clicked: [false, false, false, false, false]
+1740155683293,Mouse moved from (624, 130) to (624, 137) (outside window)
+1740155683304,Mouse moved from (624, 137) to (624, 147) (outside window)
+1740155683317,Mouse moved from (624, 147) to (625, 166) (outside window)
+1740155683327,Mouse moved from (625, 166) to (625, 167) (outside window)
+1740155683339,Mouse moved from (625, 167) to (625, 182) (outside window)
+1740155683351,Mouse moved from (625, 182) to (625, 187) (outside window)
+1740155683361,Mouse moved from (625, 187) to (625, 199) (outside window)
+1740155683374,Mouse moved from (625, 199) to (625, 214) (outside window)
+1740155683386,Mouse moved from (625, 214) to (626, 233) (outside window)
+1740155683398,Mouse moved from (626, 233) to (627, 245) (outside window)
+1740155683409,Mouse moved from (627, 245) to (630, 256) (outside window)
+1740155683422,Mouse moved from (630, 256) to (636, 277) (outside window)
+1740155683433,Mouse moved from (636, 277) to (637, 282) (outside window)
+1740155683525,Mouse clicked: [false, true, false, false, false]
+1740155683626,Mouse clicked: [false, false, false, false, false]
+1740155683723,Mouse moved from (637, 282) to (638, 282) (outside window)
+1740155683735,Mouse moved from (638, 282) to (641, 282) (outside window)
+1740155683748,Mouse moved from (641, 282) to (649, 286) (outside window)
+1740155683761,Mouse moved from (649, 286) to (657, 294) (outside window)
+1740155683772,Mouse moved from (657, 294) to (660, 298) (outside window)
+1740155683783,Mouse moved from (660, 298) to (661, 300) (outside window)
+1740155683796,Mouse moved from (661, 300) to (662, 310) (outside window)
+1740155683808,Mouse moved from (662, 310) to (655, 327) (outside window)
+1740155683820,Mouse moved from (655, 327) to (642, 336) (outside window)
+1740155683833,Mouse moved from (642, 336) to (624, 345) (outside window)
+1740155683845,Mouse moved from (624, 345) to (567, 370) (outside window)
+1740155683856,Mouse moved from (567, 370) to (501, 392) (outside window)
+1740155683880,Mouse moved from (501, 392) to (435, 412) (outside window)
+1740155683892,Mouse moved from (435, 412) to (397, 422) (outside window)
+1740155683903,Mouse moved from (397, 422) to (376, 429) (outside window)
+1740155683913,Mouse moved from (376, 429) to (342, 438) (outside window)
+1740155683926,Mouse moved from (342, 438) to (336, 439) (outside window)
+1740155683937,Mouse moved from (336, 439) to (321, 442) (outside window)
+1740155683949,Mouse moved from (321, 442) to (315, 444) (outside window)
+1740155683962,Mouse moved from (315, 444) to (308, 445) (outside window)
+1740155683973,Mouse moved from (308, 445) to (306, 445) (outside window)
+1740155683991,Mouse moved from (306, 445) to (305, 445) (outside window)
+1740155683991,Mouse clicked: [false, true, false, false, false]
+1740155684085,Mouse clicked: [false, false, false, false, false]
+1740155684148,Mouse moved from (305, 445) to (305, 444) (outside window)
+1740155684159,Mouse moved from (305, 444) to (307, 441) (outside window)
+1740155684172,Mouse moved from (307, 441) to (308, 439) (outside window)
+1740155684183,Mouse moved from (308, 439) to (310, 435) (outside window)
+1740155684195,Mouse moved from (310, 435) to (312, 432) (outside window)
+1740155684207,Mouse moved from (312, 432) to (321, 424) (outside window)
+1740155684219,Mouse moved from (321, 424) to (335, 416) (outside window)
+1740155684233,Mouse moved from (335, 416) to (366, 407) (outside window)
+1740155684246,Mouse moved from (366, 407) to (423, 401) (outside window)
+1740155684256,Mouse moved from (423, 401) to (483, 401) (outside window)
+1740155684270,Mouse moved from (483, 401) to (545, 402) (outside window)
+1740155684282,Mouse moved from (545, 402) to (583, 409) (outside window)
+1740155684295,Mouse moved from (583, 409) to (648, 433) (outside window)
+1740155684308,Mouse moved from (648, 433) to (659, 437) (outside window)
+1740155684321,Mouse moved from (659, 437) to (671, 441) (outside window)
+1740155684712,Mouse moved from (671, 441) to (674, 441) (outside window)
+1740155684725,Mouse moved from (674, 441) to (687, 441) (outside window)
+1740155684737,Mouse moved from (687, 441) to (695, 441) (outside window)
+1740155684750,Mouse moved from (695, 441) to (713, 441) (inside window)
+1740155684762,Mouse moved from (713, 441) to (721, 441) (inside window)
+1740155684774,Mouse moved from (721, 441) to (732, 441) (inside window)
+1740155684787,Mouse moved from (732, 441) to (738, 441) (inside window)
+1740155684800,Mouse moved from (738, 441) to (743, 441) (inside window)
+1740155684810,Mouse moved from (743, 441) to (746, 441) (inside window)
+1740155684823,Mouse moved from (746, 441) to (749, 441) (inside window)
+1740155684941,Mouse moved from (749, 441) to (751, 441) (inside window)
+1740155684953,Mouse moved from (751, 441) to (759, 437) (inside window)
+1740155684963,Mouse moved from (759, 437) to (780, 427) (inside window)
+1740155684974,Mouse moved from (780, 427) to (793, 420) (inside window)
+1740155684987,Mouse moved from (793, 420) to (838, 397) (inside window)
+1740155684997,Mouse moved from (838, 397) to (869, 380) (inside window)
+1740155685161,Mouse moved from (869, 380) to (872, 381) (inside window)
+1740155685173,Mouse moved from (872, 381) to (892, 390) (inside window)
+1740155685186,Mouse moved from (892, 390) to (902, 395) (inside window)
+1740155685198,Mouse moved from (902, 395) to (923, 404) (inside window)
+1740155685210,Mouse moved from (923, 404) to (930, 407) (inside window)
+1740155685224,Mouse moved from (930, 407) to (938, 410) (inside window)
+1740155685234,Mouse moved from (938, 410) to (947, 415) (inside window)
+1740155685246,Mouse moved from (947, 415) to (949, 417) (inside window)
+1740155685259,Mouse moved from (949, 417) to (950, 420) (inside window)
+1740155685271,Mouse moved from (950, 420) to (949, 421) (inside window)
+1740155685282,Mouse moved from (949, 421) to (936, 423) (inside window)
+1740155685294,Mouse moved from (936, 423) to (932, 423) (inside window)
+1740155685305,Mouse moved from (932, 423) to (918, 423) (inside window)
+1740155685318,Mouse moved from (918, 423) to (913, 420) (inside window)
+1740155685329,Mouse moved from (913, 420) to (906, 413) (inside window)
+1740155685340,Mouse moved from (906, 413) to (904, 409) (inside window)
+1740155685351,Mouse moved from (904, 409) to (903, 404) (inside window)
+1740155685364,Mouse moved from (903, 404) to (903, 388) (inside window)
+1740155685377,Mouse moved from (903, 388) to (908, 379) (inside window)
+1740155685390,Mouse moved from (908, 379) to (919, 364) (inside window)
+1740155685401,Mouse moved from (919, 364) to (923, 361) (inside window)
+1740155685414,Mouse moved from (923, 361) to (932, 354) (inside window)
+1740155685425,Mouse moved from (932, 354) to (943, 349) (inside window)
+1740155685450,Mouse moved from (943, 349) to (943, 359) (inside window)
+1740155685463,Mouse moved from (943, 359) to (939, 365) (inside window)
+1740155685476,Mouse moved from (939, 365) to (922, 380) (inside window)
+1740155685489,Mouse moved from (922, 380) to (897, 392) (inside window)
+1740155685500,Mouse moved from (897, 392) to (882, 397) (inside window)
+1740155685536,Mouse moved from (882, 397) to (830, 406) (inside window)
+1740155685800,Mouse moved from (830, 406) to (838, 414) (inside window)
+1740155685812,Mouse moved from (838, 414) to (843, 423) (inside window)
+1740155685823,Mouse moved from (843, 423) to (850, 439) (inside window)
+1740155685835,Mouse moved from (850, 439) to (852, 447) (inside window)
+1740155685847,Mouse moved from (852, 447) to (854, 460) (inside window)
+1740155685859,Mouse moved from (854, 460) to (854, 464) (inside window)
+1740155685870,Mouse moved from (854, 464) to (853, 473) (inside window)
+1740155685881,Mouse moved from (853, 473) to (848, 480) (inside window)
+1740155685894,Mouse moved from (848, 480) to (842, 483) (inside window)
+1740155685905,Mouse moved from (842, 483) to (818, 483) (inside window)
+1740155685917,Mouse moved from (818, 483) to (804, 480) (inside window)
+1740155685930,Mouse moved from (804, 480) to (772, 454) (inside window)
+1740155685941,Mouse moved from (772, 454) to (766, 444) (inside window)
+1740155685952,Mouse moved from (766, 444) to (756, 417) (inside window)
+1740155685965,Mouse moved from (756, 417) to (756, 395) (inside window)
+1740155685977,Mouse moved from (756, 395) to (756, 394) (inside window)
+1740155685988,Mouse moved from (756, 394) to (764, 387) (inside window)
+1740155686002,Mouse moved from (764, 387) to (790, 381) (inside window)
+1740155686014,Mouse moved from (790, 381) to (843, 378) (inside window)
+1740155686025,Mouse moved from (843, 378) to (863, 380) (inside window)
+1740155686037,Mouse moved from (863, 380) to (901, 400) (inside window)
+1740155686049,Mouse moved from (901, 400) to (909, 407) (inside window)
+1740155686061,Mouse moved from (909, 407) to (922, 419) (inside window)
+1740155686074,Mouse moved from (922, 419) to (934, 436) (inside window)
+1740155686085,Mouse moved from (934, 436) to (936, 439) (inside window)
+1740155686097,Mouse moved from (936, 439) to (943, 452) (inside window)
+1740155686110,Mouse moved from (943, 452) to (944, 458) (inside window)
+1740155686120,Mouse moved from (944, 458) to (944, 460) (inside window)
+1740155686132,Mouse moved from (944, 460) to (942, 460) (inside window)
+1740155686145,Mouse moved from (942, 460) to (937, 455) (inside window)
+1740155686156,Mouse moved from (937, 455) to (936, 449) (inside window)
+1740155686168,Mouse moved from (936, 449) to (935, 429) (inside window)
+1740155686178,Mouse moved from (935, 429) to (935, 417) (inside window)
+1740155686190,Mouse moved from (935, 417) to (941, 390) (inside window)
+1740155686202,Mouse moved from (941, 390) to (948, 376) (inside window)
+1740155686215,Mouse moved from (948, 376) to (965, 351) (inside window)
+1740155686225,Mouse moved from (965, 351) to (975, 340) (inside window)
+1740155686236,Mouse moved from (975, 340) to (985, 329) (inside window)
+1740155686249,Mouse moved from (985, 329) to (1002, 316) (inside window)
+1740155686262,Mouse moved from (1002, 316) to (1020, 302) (inside window)
+1740155686275,Mouse moved from (1020, 302) to (1027, 298) (inside window)
+1740155686286,Mouse moved from (1027, 298) to (1033, 295) (inside window)
+1740155686298,Mouse moved from (1033, 295) to (1040, 292) (inside window)
+1740155686311,Mouse moved from (1040, 292) to (1045, 290) (inside window)
+1740155686323,Mouse moved from (1045, 290) to (1047, 290) (inside window)
+1740155686335,Mouse moved from (1047, 290) to (1050, 288) (inside window)
+1740155686346,Mouse moved from (1050, 288) to (1051, 288) (inside window)
+1740155686356,Mouse moved from (1051, 288) to (1051, 287) (inside window)
+1740155686370,Mouse moved from (1051, 287) to (1052, 287) (inside window)
+1740155686392,Mouse clicked: [false, true, false, false, false]
+1740155686474,Mouse clicked: [false, false, false, false, false]
+1740155686486,Mouse moved from (1052, 287) to (1050, 287) (inside window)
+1740155686591,Mouse moved from (1050, 287) to (1050, 289) (inside window)
+1740155686604,Mouse moved from (1050, 289) to (1050, 300) (inside window)
+1740155686617,Mouse moved from (1050, 300) to (1050, 321) (inside window)
+1740155686628,Mouse moved from (1050, 321) to (1049, 330) (inside window)
+1740155686655,Mouse moved from (1049, 330) to (1044, 354) (inside window)
+1740155686668,Mouse moved from (1044, 354) to (1032, 393) (inside window)
+1740155686680,Mouse moved from (1032, 393) to (1026, 409) (inside window)
+1740155686691,Mouse moved from (1026, 409) to (1012, 437) (inside window)
+1740155686703,Mouse moved from (1012, 437) to (1009, 442) (inside window)
+1740155686713,Mouse moved from (1009, 442) to (1003, 453) (inside window)
+1740155686724,Mouse moved from (1003, 453) to (994, 470) (inside window)
+1740155686734,Mouse moved from (994, 470) to (992, 472) (inside window)
+1740155686747,Mouse moved from (992, 472) to (988, 478) (inside window)
+1740155686759,Mouse moved from (988, 478) to (986, 480) (inside window)
+1740155686770,Mouse moved from (986, 480) to (985, 481) (inside window)
+1740155686781,Mouse moved from (985, 481) to (985, 482) (inside window)
+1740155686804,Mouse moved from (985, 482) to (985, 481) (inside window)
+1740155686816,Mouse moved from (985, 481) to (985, 480) (inside window)
+1740155686827,Mouse moved from (985, 480) to (985, 479) (inside window)
+1740155686839,Mouse moved from (985, 479) to (987, 477) (inside window)
+1740155686851,Mouse moved from (987, 477) to (989, 475) (inside window)
+1740155686876,Mouse moved from (989, 475) to (990, 475) (inside window)
+1740155686899,Mouse moved from (990, 475) to (990, 474) (inside window)
+1740155686943,Mouse moved from (990, 474) to (991, 474) (inside window)
+1740155687028,Mouse moved from (991, 474) to (991, 475) (inside window)
+1740155687040,Mouse moved from (991, 475) to (992, 476) (inside window)
+1740155687053,Mouse moved from (992, 476) to (992, 477) (inside window)
+1740155687064,Mouse clicked: [false, true, false, false, false]
+1740155687167,Mouse clicked: [false, false, false, false, false]
+1740155687225,Mouse moved from (992, 477) to (992, 478) (inside window)
+1740155687236,Mouse moved from (992, 478) to (992, 479) (inside window)
+1740155687249,Mouse moved from (992, 479) to (992, 481) (inside window)
+1740155687259,Mouse moved from (992, 481) to (992, 482) (inside window)
+1740155687272,Mouse moved from (992, 482) to (993, 483) (inside window)
+1740155687283,Mouse moved from (993, 483) to (993, 485) (inside window)
+1740155687304,Mouse moved from (993, 485) to (993, 486) (inside window)
+1740155687326,Mouse moved from (993, 486) to (993, 487) (inside window)
+1740155687396,Mouse clicked: [false, true, false, false, false]
+1740155687466,Mouse clicked: [false, false, false, false, false]

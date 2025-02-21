@@ -1,6 +1,6 @@
 #![cfg_attr(
-  all(not(debug_assertions), target_os = "windows"),
-  windows_subsystem = "windows"
+    all(not(debug_assertions), target_os = "windows"),
+    windows_subsystem = "windows"
 )]
 
 use std::sync::Mutex;
@@ -8,41 +8,72 @@ use std::time::{SystemTime, UNIX_EPOCH};
 use std::fs::File;
 use std::io::Write;
 use tauri::Manager;
-use device_query::{DeviceQuery, DeviceState};
+use device_query::{DeviceQuery, DeviceState, MouseState};
 use sysinfo::{System, SystemExt, CpuExt};
 
 struct RecordingState(Mutex<bool>);
 struct EventLog(Mutex<Vec<(u64, String)>>);
+struct LastMouseState(Mutex<MouseState>);
 
 fn main() {
     tauri::Builder::default()
         .plugin(tauri_plugin_opener::init())
         .setup(|app| {
+            let device_state = DeviceState::new();
+            let initial_mouse = device_state.get_mouse();
+            
             app.manage(RecordingState(Mutex::new(false)));
             app.manage(EventLog(Mutex::new(Vec::new())));
+            app.manage(LastMouseState(Mutex::new(initial_mouse)));
             
             let app_handle = app.handle().clone();
             
             std::thread::spawn(move || {
                 let device_state = DeviceState::new();
-                let mut last_mouse = device_state.get_mouse().coords;
                 let mut last_keys = device_state.get_keys();
 
                 loop {
                     let is_recording = *app_handle.state::<RecordingState>().0.lock().unwrap();
                     if is_recording {
-                        let mouse = device_state.get_mouse();
+                        let current_mouse = device_state.get_mouse();
                         let keys = device_state.get_keys();
+                        
+                        {
+                            let last_mouse_state = app_handle.state::<LastMouseState>();
+                            let mut last_mouse = last_mouse_state.0.lock().unwrap();
+                            
+                            if current_mouse.coords != last_mouse.coords {
+                                if let Some(window) = app_handle.get_webview_window("main") {
+                                    if let (Ok(position), Ok(size)) = (window.outer_position(), window.outer_size()) {
+                                        let is_inside = current_mouse.coords.0 >= position.x as i32 
+                                            && current_mouse.coords.0 <= (position.x + size.width as i32) as i32
+                                            && current_mouse.coords.1 >= position.y as i32 
+                                            && current_mouse.coords.1 <= (position.y + size.height as i32) as i32;
+                                        
+                                        log_event(&app_handle, format!(
+                                            "Mouse moved from {:?} to {:?} ({})", 
+                                            last_mouse.coords,
+                                            current_mouse.coords,
+                                            if is_inside { "inside window" } else { "outside window" }
+                                        ));
+                                    } else {
+                                        log_event(&app_handle, format!(
+                                            "Mouse moved from {:?} to {:?}", 
+                                            last_mouse.coords,
+                                            current_mouse.coords
+                                        ));
+                                    }
+                                }
+                            }
 
-                        if mouse.coords != last_mouse {
-                            log_event(&app_handle, format!("Mouse moved from {:?} to {:?}", last_mouse, mouse.coords));
-                            last_mouse = mouse.coords;
-                        }
+                            if current_mouse.button_pressed != last_mouse.button_pressed {
+                                if !current_mouse.button_pressed.is_empty() {
+                                    log_event(&app_handle, format!("Mouse clicked: {:?}", current_mouse.button_pressed));
+                                }
+                            }
 
-                        if !mouse.button_pressed.is_empty() {
-                            log_event(&app_handle, format!("Mouse clicked: {:?}", mouse.button_pressed));
-                        }
-
+                            *last_mouse = current_mouse;
+                        } 
                         if keys != last_keys {
                             for key in keys.iter() {
                                 if !last_keys.contains(key) {
