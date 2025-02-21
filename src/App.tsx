@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { invoke } from "@tauri-apps/api/core";
 import "./App.css";
 import { openUrl } from '@tauri-apps/plugin-opener';
+import { Button } from "./components/ui/button";
 
 function App() {
   const [isRecording, setIsRecording] = useState(false)
@@ -55,20 +56,20 @@ function App() {
         <h1 className="text-2xl font-bold mb-6 text-center">Task Recorder</h1>
         <p className="text-center mb-4">OS: {osInfo}</p>
         <div className="space-y-4">
-          <button
+          <Button
             className="w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded"
             onClick={handleOpenBrowser}
           >
             Open Browser
-          </button>
-          <button
+          </Button>
+          <Button
             className={`w-full font-bold py-2 px-4 rounded ${
               isRecording ? "bg-red-500 hover:bg-red-600 text-white" : "bg-green-500 hover:bg-green-600 text-white"
             }`}
             onClick={handleCreateTask}
           >
             {isRecording ? "Stop Recording" : "Create Task"}
-          </button>
+          </Button>
           {isRecording && <p className="text-center">Recording... Time elapsed: {elapsedTime} seconds</p>}
         </div>
       </div>
